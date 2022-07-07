@@ -1,8 +1,8 @@
 ### Hi, I'm Ian Moura 👋
 
-Backend Developer on Daitan
+Backend Developer on Encora
 
-- 🌱 I’m currently learning Python FastAPI and React-admin
+- 🌱 I’m currently working with Python and React
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me - ian.alexandre@encora.com
 
