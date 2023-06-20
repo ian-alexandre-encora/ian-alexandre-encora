@@ -2,7 +2,7 @@
 
 Backend Developer on Encora
 
-- 🌱 I’m currently working with Python and React
+- 🌱 I’m currently working with Python and VueJS
 - 😄 Pronouns: He/Him/His
 - 📫 How to reach me - ian.alexandre@encora.com
 
