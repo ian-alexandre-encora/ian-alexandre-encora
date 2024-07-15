@@ -1,6 +1,6 @@
 ### Hi, I'm Ian Moura 👋
 
-Fullstack Developer on Encora
+Fullstack Developer at Encora
 
 - 🌱 I’m currently working with Python and VueJS
 - 😄 Pronouns: He/Him/His
